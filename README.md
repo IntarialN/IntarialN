@@ -9,8 +9,6 @@
 
 > 📦 66.2 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -44,18 +42,16 @@ Sunday                   14 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               2 mins              ████████████████████████░   97.14 % 
-SCSS                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-eveot-backend            2 mins              ████████████████████████░   97.14 % 
-ui                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +69,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 18:33:02 UTC
+ Last Updated on 27/05/2024 18:34:43 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
