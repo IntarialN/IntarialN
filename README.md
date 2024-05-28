@@ -7,7 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 66.2 kB Used in GitHub's Storage 
+> 📦 66.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,7 +71,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2024 18:34:43 UTC
+ Last Updated on 28/05/2024 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
