@@ -9,6 +9,8 @@
 
 > 📦 66.3 kB Used in GitHub's Storage 
  > 
+> 🏆 26 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -42,16 +44,23 @@ Sunday                   14 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 54 mins        ███████████░░░░░░░░░░░░░░   43.26 % 
+SCSS                     1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+GitIgnore file           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 hrs 18 mins       ████████████████████████░   97.20 % 
+WebStorm                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arkdup                   4 hrs 15 mins       ████████████████████████░   96.33 % 
+LightEditProject         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+arkdup1                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,7 +78,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 18:36:04 UTC
+ Last Updated on 05/06/2024 18:35:49 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
