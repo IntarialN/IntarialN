@@ -9,13 +9,11 @@
 
 > 📦 66.4 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -44,16 +42,24 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               59 mins             ███████████████░░░░░░░░░░   61.52 % 
+SCSS                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+inmovie                  1 hr 24 mins        ██████████████████████░░░   86.60 % 
+sms-reader-app           7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+criminal-gamemode        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+eveot-ui                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+codeology                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 18:36:16 UTC
+ Last Updated on 28/07/2024 18:37:05 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
