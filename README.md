@@ -1,7 +1,7 @@
 ## Hey, welcome!   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 18:36:22 UTC
+ Last Updated on 18/08/2024 18:35:54 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
