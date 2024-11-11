@@ -1,6 +1,8 @@
 ## Hey, welcome!   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/></h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,8 +52,8 @@ JavaScript               8 mins              ░░░░░░░░░░░�
 WebStorm                 11 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
-intarial-web             3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+backend                  4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
+intarial-web             3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
 api                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 main                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 dal.lib                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
@@ -76,7 +78,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:38:40 UTC
+ Last Updated on 11/11/2024 18:40:46 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
