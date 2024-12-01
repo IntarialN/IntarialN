@@ -1,15 +1,11 @@
 ## Hey, welcome!   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 123.5 kB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +68,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 18:41:03 UTC
+ Last Updated on 01/12/2024 18:41:40 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
