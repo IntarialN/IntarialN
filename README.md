@@ -9,8 +9,6 @@
 
 > 📦 123.5 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -72,7 +70,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 18:41:16 UTC
+ Last Updated on 20/12/2024 18:41:00 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
