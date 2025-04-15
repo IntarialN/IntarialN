@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 133.4 kB Used in GitHub's Storage 
+> 📦 133.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,24 +42,24 @@ Sunday                   48 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               3 hrs 36 mins       ███████████████░░░░░░░░░░   59.83 % 
-Vue.js                   1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.49 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+TypeScript               2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
+Vue.js                   1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+JSON                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 1 min         █████████████████████████   100.00 % 
+WebStorm                 5 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     3 hrs 30 mins       ███████████████░░░░░░░░░░   58.25 % 
-api                      1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.61 % 
-dal.lib                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-inmovie                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-butterfly                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+main                     2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
+magistral-2              1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+api                      1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+dal.lib                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+inmovie                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 18:45:18 UTC
+ Last Updated on 15/04/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
