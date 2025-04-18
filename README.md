@@ -1,13 +1,15 @@
 ## Hey, welcome!   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24"/></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 133.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,24 +44,24 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               4 hrs 24 mins       █████████████░░░░░░░░░░░░   51.40 % 
-JSON                     2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Vue.js                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-yarn.lock                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               6 hrs 2 mins        ██████████████░░░░░░░░░░░   57.78 % 
+JSON                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Vue.js                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-WebStorm                 8 hrs 33 mins       █████████████████████████   100.00 % 
+WebStorm                 10 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-magistral-2              5 hrs 26 mins       ████████████████░░░░░░░░░   63.59 % 
-main                     1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-api                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-dal.lib                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-alt-gamemode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+magistral-2              5 hrs 26 mins       █████████████░░░░░░░░░░░░   52.12 % 
+main                     3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+api                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+butterfly                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+alt-gamemode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      8 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2025 18:44:46 UTC
+ Last Updated on 18/04/2025 18:44:00 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
