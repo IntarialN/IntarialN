@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 133.8 kB Used in GitHub's Storage 
+> 📦 158.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                352 commits         ███████████░░░░░░░░░░░░░░   45.36 % 
-🌃 Evening                327 commits         ███████████░░░░░░░░░░░░░░   42.14 % 
+🌞 Morning                100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+🌆 Daytime                355 commits         ███████████░░░░░░░░░░░░░░   45.40 % 
+🌃 Evening                327 commits         ██████████░░░░░░░░░░░░░░░   41.82 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   154 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Wednesday                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Friday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Saturday                 204 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Monday                   154 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Tuesday                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Wednesday                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Friday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Saturday                 204 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 
 
@@ -42,24 +42,24 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               6 hrs 19 mins       █████████████░░░░░░░░░░░░   51.88 % 
-JSON                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Vue.js                   2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-SQL                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TypeScript               6 hrs 40 mins       ████████████████░░░░░░░░░   62.78 % 
+Vue.js                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+SQL                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-WebStorm                 12 hrs 11 mins      █████████████████████████   100.00 % 
+WebStorm                 10 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-magistral-2              5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
-main                     4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.03 % 
-api                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-butterfly                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-dal.lib                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+magistral-2              3 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
+main                     3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
+api                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+butterfly                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+dal.lib                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Mac                      12 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IntarialN/IntarialN/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 18:45:24 UTC
+ Last Updated on 22/04/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
 
 ### Environment
